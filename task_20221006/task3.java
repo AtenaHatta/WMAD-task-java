@@ -17,7 +17,7 @@ public class task3 {
 
     Scanner input = new Scanner(System.in);
     
-    System.out.println("Enter word");
+    System.out.println("Enter a word");
     String word = input.next();
     
     int num = word.length();
