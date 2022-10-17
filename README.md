@@ -1,1 +1,1 @@
-# 【CICCC/WMAD】task-java
+# WMAD-task-java
