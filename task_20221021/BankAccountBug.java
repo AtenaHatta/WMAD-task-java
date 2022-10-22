@@ -61,7 +61,6 @@ public class BankAccount {
             previousTransaction = -amount;
         }else if(amount < 0 && balance < 0){
                 errorMessage("Insufficient Balance!");
-            }
         }else{
             if(amount <= 0){
                 errorMessage("Invalid amount! Please enter correct amount.");
