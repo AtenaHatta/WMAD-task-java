@@ -1,0 +1,13 @@
+
+
+#anchorPane{
+  -fx-background-image: url('../CSS/img/pika.png');
+}
+
+#login {
+  -fx-background-color: rgb(137,137,150,0.427);
+}
+
+#anchorPane2{
+  -fx-background-image: url('../CSS/img/evi.png');
+}
